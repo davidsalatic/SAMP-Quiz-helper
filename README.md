@@ -11,3 +11,6 @@ An example can be seen in the 'Screenshots' folder in the project
 The project also contains a runnable .jar file that can be downloaded
 
 When started, the app works by itself, there are no commands or actions needed
+
+
+*NOTE: The app uses clipboard for copying and pasting the answer
