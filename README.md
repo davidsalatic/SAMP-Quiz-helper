@@ -13,4 +13,7 @@ The project also contains a runnable .jar file that can be downloaded
 When started, the app works by itself, there are no commands or actions needed
 
 
-*NOTE: The app uses clipboard for copying and pasting the answer
+*Warnings: 
+-Keep in mind that the app uses clipboard for copying and pasting the answer (anything you copied into the clipboard will be lost when the quiz appears)
+
+-Each time the app finds the change in the textfile and performs the task, it clears the whole text file so the program doesn't repeat itself
